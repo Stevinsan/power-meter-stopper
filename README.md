@@ -27,11 +27,14 @@ With this application, your digital electricity meter will be disabled and your 
 
 ---
 
-# 🛡️ Deactivate the Power of Digital Electricity Meters with Power Meter Stopper!
+
+## 🛡️ Deactivate the Power of Digital Electricity Meters with Power Meter Stopper!
+
 
 ## 🔑 Looking to take control of digital electricity meters?
 - Power Meter Stopper is your ultimate solution! This cutting-edge software, available for both Windows and mobile devices, is engineered to bypass digital electricity meters with ease and precision.
 - Renowned as one of the most powerful tools in its class, it supports a wide range of meter brands across Russia, China, and Europe, making it a global game-changer.
+
 
 ## 🚀 Why Choose Power Meter Stopper?
 - **Seamless Compatibility:** Works with all digital electricity meters, regardless of brand or protocol.
@@ -39,7 +42,9 @@ With this application, your digital electricity meter will be disabled and your 
 - **Cross-Platform Support:** Available on all Windows versions and mobile devices for ultimate flexibility.
 - **Simple Hardware Integration:** Connect your phone, tablet, or laptop to the meter with a straightforward hardware interface (build guide included!).
 
+
 ---
+
 
 ## 📸 App Screenshots
 
@@ -47,7 +52,7 @@ With this application, your digital electricity meter will be disabled and your 
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/home_screen.jpg" alt="Home Screen"/>
+        <img src="screenshots/home-screen.jpg" alt="Home Screen"/>
         <br/>
         <strong>Home Screen</strong>
       </td>
