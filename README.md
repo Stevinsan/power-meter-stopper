@@ -137,10 +137,9 @@ With this application, your digital electricity meter will be disabled and your 
 
 ## 📋 Requirements
 
-- **Android 5.0 (API 21) or higher**
--  **Optical probe**
+- **Android 9.0 or higher**
+- **Optical probe**
 - **At least 100 MB of free storage space**
-- **Internet connection** for checking wallet balances
 
 Note: A probe is required to communicate between the phone and the electricity meter. You can order and obtain the probe from within the application.
 
@@ -170,11 +169,9 @@ Note: A probe is required to communicate between the phone and the electricity m
 
 ## ⚠️ Disclaimer
 
-This application is intended solely for educational, research, and legitimate management or recovery of wallets owned by the user.
-
-Attempting to gain unauthorized access to wallets, accounts, private keys, seed phrases, or digital assets belonging to other people is illegal. Users are solely responsible for ensuring that their use of this software complies with all applicable laws and regulations.
-
-The developers accept no responsibility for any misuse of this application.
+- This application is intended for educational, research purposes only.
+- Attempting unauthorized access is illegal. Users are solely responsible for ensuring that their use of this software complies with all applicable laws and regulations.
+- The developers assume no responsibility for any misuse of this application.
 
 ---
 
