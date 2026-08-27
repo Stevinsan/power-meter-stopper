@@ -1,7 +1,7 @@
 # Power Meter Stopper
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 5.5">
+  <img src="https://img.shields.io/badge/version-5.0-blue.svg" alt="Version 5.0">
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 </p>
